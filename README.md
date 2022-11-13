@@ -1,8 +1,7 @@
 # AboutMe
 
 
-This is Jeremy Smith, a budding FrontEnd Developer that started the journey June, 2022.
-Hello, this is Jeremy Smith,
+Hello, This is Jeremy Smith, a budding FrontEnd Developer that started the journey June, 2022.
 
 I'm a budding FrontEnd Developer that started the tech journey in June, 2022.
 
